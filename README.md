@@ -34,9 +34,11 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sparrow48&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sparrow48's Github Stats">
+<p align="left">
+<a href="https://github.com/Sparrow48">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sparrow48&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 </br>
 </br>
@@ -47,4 +49,4 @@ You can use the website to generate badges: https://shields.io/
 
 Credits: [Sparrow48](https://github.com/Sparrow48)
 
-Last Edited on: 16/04/2021
+Last Edited on: 05/05/2021
