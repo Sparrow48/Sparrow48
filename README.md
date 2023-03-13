@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently working at Durbin Labs Limited as a software engineer.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Portfolio: [Nasib](https://nasib-portfolio.vercel.app/)
+- Portfolio: [Nasib](https://nasib.vercel.app/)
 - How to reach me: __abunasib48@gmail.com__,**abu.nasib@northsouth.edu**
 
 ---
