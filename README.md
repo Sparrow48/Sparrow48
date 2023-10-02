@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m have completed my graduation from North South University .
-- I’m currently working at Durbin Labs Limited as a software engineer.
+- I’m currently working at edoktor as a software engineer.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Portfolio: [Nasib](https://nasib.vercel.app/)
