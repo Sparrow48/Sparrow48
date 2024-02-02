@@ -16,12 +16,12 @@ You can use the website to generate badges: https://shields.io/
 
 **About Me:**
 
-- I’m have completed my graduation from North South University .
+- I have completed my graduation from North South University.
 - I’m currently working at edoktor as a software engineer.
 - I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
+- Ask me about anything, and I am happy to help.
 - Portfolio: [Nasib](https://nasib.vercel.app/)
-- How to reach me: __abunasib48@gmail.com__,**abu.nasib@northsouth.edu**
+- How to reach me: __abunasib.talks@gmail.com__,**abu.nasib@northsouth.edu**
 
 ---
 
