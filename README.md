@@ -6,7 +6,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://nasib.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.abunasib.me/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Sparrow48)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abu-nasib-87223618b/)
 
@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently working at edoktor as a software engineer.
 - I’m looking to collaborate on anything!
 - Ask me about anything, and I am happy to help.
-- Portfolio: [Nasib](https://nasib.vercel.app/)
+- Portfolio: [Nasib](https://www.abunasib.me/)
 - How to reach me: __abunasib.talks@gmail.com__,**abu.nasib@northsouth.edu**
 
 ---
