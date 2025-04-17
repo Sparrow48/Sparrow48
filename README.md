@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I have completed my graduation from North South University.
-- I’m currently working at edoktor as a software engineer.
+- I’m currently working at Northprim as a software engineer.
 - I’m looking to collaborate on anything!
 - Ask me about anything, and I am happy to help.
 - Portfolio: [Nasib](https://www.abunasib.me/)
