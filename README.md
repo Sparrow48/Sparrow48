@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently working at Northprim as a software engineer.
 - I’m looking to collaborate on anything!
 - Ask me about anything, and I am happy to help.
-- Portfolio: [Nasib](https://www.abunasib.me/)
+- Portfolio: [Nasib](https://sparrow48.github.io/)
 - How to reach me: __abunasib.talks@gmail.com__,**abu.nasib@northsouth.edu**
 
 ---
